@@ -19,3 +19,6 @@ GROUP BY customers.address;
 --Anudari
 
 SELECT * FROM customers;
+
+-- Khuslen
+SELECT * FROM customers where address=1;
