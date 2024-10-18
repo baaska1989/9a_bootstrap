@@ -14,3 +14,8 @@ FROM customers
 INNER JOIN customer_horoo 
 ON customers.address = customer_horoo.id 
 GROUP BY customers.address;
+
+
+--Anudari
+
+SELECT * FROM customers;
