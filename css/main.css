@@ -1,3 +1,10 @@
 body {
     background-color: #202124 !important;
 }
+.google-image {
+    width: 280px;
+}
+
+.margin-top-logo {
+    margin-top: 200px;
+}
